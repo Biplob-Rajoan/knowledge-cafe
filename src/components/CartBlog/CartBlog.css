@@ -1,0 +1,11 @@
+.blog-cart{
+    background-color: white;
+    padding: 20px 15px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.blog-cart:hover{   
+    transform: scale(1.04);
+    transition-duration: 500ms;
+}
